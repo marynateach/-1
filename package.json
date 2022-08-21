@@ -1,0 +1,24 @@
+{
+  "name": "version-2---with-card-renders",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marynateach/-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marynateach/-1/issues"
+  },
+  "homepage": "https://github.com/marynateach/-1#readme",
+  "devDependencies": {
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
